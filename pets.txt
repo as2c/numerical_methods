@@ -16,3 +16,6 @@ Ginger
 Hoppy
 Harry
 Fredrick
+Bouncy
+Squishy
+Burger
